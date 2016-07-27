@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerThinkCore", "PokerThinkCore\PokerThinkCore.csproj", "{6B94CF1A-133B-42E4-A9E8-8D179B66A9AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerThinkConsole", "PokerThinkConsole\PokerThinkConsole.csproj", "{33C89B4E-1AEE-4B3E-80B2-06BFEF06D68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerThinkTests", "PokerThinkTests\PokerThinkTests.csproj", "{77E5383F-834D-4120-AD50-699862CC5ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerThinkUI", "PokerThinkUI\PokerThinkUI.csproj", "{39DFCE33-AA08-4C28-B6A7-914B88FD748A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3612C7AE-CCE4-4A76-B4E8-8645F5192090}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B94CF1A-133B-42E4-A9E8-8D179B66A9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B94CF1A-133B-42E4-A9E8-8D179B66A9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B94CF1A-133B-42E4-A9E8-8D179B66A9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B94CF1A-133B-42E4-A9E8-8D179B66A9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C89B4E-1AEE-4B3E-80B2-06BFEF06D68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C89B4E-1AEE-4B3E-80B2-06BFEF06D68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C89B4E-1AEE-4B3E-80B2-06BFEF06D68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C89B4E-1AEE-4B3E-80B2-06BFEF06D68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E5383F-834D-4120-AD50-699862CC5ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E5383F-834D-4120-AD50-699862CC5ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E5383F-834D-4120-AD50-699862CC5ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E5383F-834D-4120-AD50-699862CC5ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DFCE33-AA08-4C28-B6A7-914B88FD748A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DFCE33-AA08-4C28-B6A7-914B88FD748A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DFCE33-AA08-4C28-B6A7-914B88FD748A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DFCE33-AA08-4C28-B6A7-914B88FD748A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
