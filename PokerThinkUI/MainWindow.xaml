@@ -24,7 +24,12 @@
             <TextBox Width="150" Text="{Binding Pot, UpdateSourceTrigger=LostFocus}" />
         </StackPanel>
 
-        <local:EllipsePanel Grid.Row="1" OuterRadius="600" InnerRadius="550">
+        <local:EllipsePanel Grid.Row="1" OuterRadius="240" InnerRadius="200">
+            <player:Player></player:Player>
+            <player:Player></player:Player>
+            <player:Player></player:Player>
+            <player:Player></player:Player>
+            <player:Player></player:Player>
             <player:Player></player:Player>
             <player:Player></player:Player>
             <player:Player></player:Player>
